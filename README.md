@@ -25,7 +25,7 @@ bridging reasoning, security, and human-centered AI at the operating system leve
 
 ## 🏗️ Projects Under the Organization
 
-```
+
 
 | Project | Description | Status |
 |----------|--------------|---------|
@@ -34,7 +34,7 @@ bridging reasoning, security, and human-centered AI at the operating system leve
 | [Adaptive OS](https://github.com/AdaptiveIntelligenceCircle/Adaptive-OS) | A distributed adaptive operating system kernel for intelligent infrastructure. | 🧠 Prototype |
 | [AI for Driver](https://github.com/AdaptiveIntelligenceCircle/AIForDriver) | Real-world application of adaptive AI for driver safety and decision-making. | ⚙️ Active |
 | [Driver Introspective Proxy](https://github.com/AdaptiveIntelligenceCircle/Driver-Introspective-Proxy) | Behavioral proxy system for human-AI co-adaptation. | 🌱 Early stage |
-```
+
 ---
 
 ## ⚙️ Core Principles
