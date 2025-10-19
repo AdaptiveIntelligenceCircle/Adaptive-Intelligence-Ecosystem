@@ -25,8 +25,6 @@ bridging reasoning, security, and human-centered AI at the operating system leve
 
 ## 🏗️ Projects Under the Organization
 
-
-
 | Project | Description | Status |
 |----------|--------------|---------|
 | [Adaptive AI](https://github.com/AdaptiveIntelligenceCircle/Adaptive-AI) | Core framework for meta-learning, context adaptation, and self-defense. | 🧩 Pre-release |
