@@ -74,7 +74,7 @@ The organization welcomes research collaboration and open development with:
 - Industrial partners (AI safety, autonomous systems, operating systems)
 
 If you’re interested in **partnership or integration**, reach out via:
-> ✉️ contact@adaptive-intelligence.org *(or your GitHub contact page)*
+> ✉️ contact@ndtribk@gmail.com *(or GitHub contact page)*
 
 ---
 
